@@ -4,7 +4,7 @@
 
 =Rockman Basic Master=(Flash , Heat , Air , Bubble , Clash , Wily 1 already are in the rando)
 
-Problems:
+Problems:  
 Rockman 2 Basic Master - Metal Man(Track doesn't mix up with others.Broken/jumbled instruments)  
 Rockman 2 Basic Master - Boss Music(Sounds off compared to the hack)  
 Rockman 2 Basic Master - Wily 5(Starts a note and crashes the rando)  
