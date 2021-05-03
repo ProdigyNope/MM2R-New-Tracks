@@ -1,3 +1,4 @@
+[Duckfist's Randomizer Tracklist.txt](https://github.com/ProdigyNope/MM2R-New-Tracks/files/6415336/Duckfist.s.Randomizer.Tracklist.txt)
 # MM2R-New-Tracks
 
 ====
