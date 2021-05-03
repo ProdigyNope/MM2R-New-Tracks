@@ -5,9 +5,9 @@
 =Rockman Basic Master=(Flash , Heat , Air , Bubble , Clash , Wily 1 already are in the rando)
 
 Problems:
-Rockman 2 Basic Master - Metal Man(Track doesn't mix up with others.Broken/jumbled instruments)
-Rockman 2 Basic Master - Boss Music(Sounds off compared to the hack)
-Rockman 2 Basic Master - Wily 5(Starts a note and crashes the rando)
+Rockman 2 Basic Master - Metal Man(Track doesn't mix up with others.Broken/jumbled instruments)  
+Rockman 2 Basic Master - Boss Music(Sounds off compared to the hack)  
+Rockman 2 Basic Master - Wily 5(Starts a note and crashes the rando)  
 Rockman 2 Basic Master - Wily 6(Plays fine , crashes the game during play/or creates visual glitches including grabbing a ladder out of nowhere?)
 
 Rockman 2 Basic Master - Wood Man(Mega Man Legends - Bonne Forces)
