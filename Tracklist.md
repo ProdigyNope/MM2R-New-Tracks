@@ -3,7 +3,8 @@
 
 ====
 
-# =Rockman Basic Master= (Crash Man's Version from duckfist's sounds better)(Metal Man still missing a few notes.Unpleasant to listen.Sorry)
+# =Rockman Basic Master=   
+(Crash Man's Version from duckfist's sounds better)(Metal Man still missing a few notes.Unpleasant to listen.Sorry)
 
 Rockman 2 Basic Master - Wily 5(Starts a note and crashes the rando)  
 Rockman 2 Basic Master - Wily 6(Plays fine , crashes the game during play/or creates visual glitches including grabbing a ladder out of nowhere?)
